@@ -1,0 +1,4 @@
+alice   Cleartext-Password := "radius_password_alice"
+carol   Cleartext-Password := "radius_password_carol"
+dave    Cleartext-Password := "radius_password_dave"
+
